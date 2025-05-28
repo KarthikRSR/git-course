@@ -1,1 +1,6 @@
 This is admin here
+
+admin can create and delete users
+
+can create another role
+
