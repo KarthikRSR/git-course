@@ -5,3 +5,5 @@ Process this file, new line added
 create an avatar for User
 
 User login and logout
+
+change 1
